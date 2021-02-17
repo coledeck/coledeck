@@ -1,6 +1,6 @@
 Hi, I’m Cole Deck.
 
-Most of my repositories are mirrored from my own server, https://git.deck.sh
+Most of my repositories are on my own server, https://git.deck.sh
 
 See more about me and contact info on my website; https://deck.sh
 <!---
